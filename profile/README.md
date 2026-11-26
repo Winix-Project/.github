@@ -24,7 +24,7 @@ Winix Preview is part of Winix Explorer's file-management experience.
 - Develop new applications, extensions and enhancements with Windows-inspired UI and UX.
 - Improve visual consistency, interaction and everyday usability across the desktop.
 
-Development currently targets **Debian 13 with KDE Plasma 6**. Installation, compatibility and release details are documented per application.
+Our vision is a more familiar, intuitive and cohesive Linux desktop experience.
 
 ---
 
@@ -32,4 +32,4 @@ Founded and developed by **[JokanderX](https://github.com/JokanderX)**.
 
 ## Acknowledgements
 
-Winix builds on the work of the open-source community. Each project preserves the licenses, credits and notices of its upstream components and contributors.
+Winix builds on the work of the open-source community and honors the contributions, licenses and notices of the software it uses.
