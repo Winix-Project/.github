@@ -6,9 +6,9 @@
 
 <p align="center"><strong>A familiar desktop experience for Linux.</strong></p>
 
-Winix is an independent open-source project built on KDE technologies. It brings a consistent experience to everyday file management, file-operation progress and the KDE Plasma desktop.
+Winix is an open-source project building a growing suite of applications and enhancements that bring Windows-inspired interfaces and workflows to KDE and the wider Linux desktop.
 
-## Our applications
+## Current projects
 
 | Application | What it does |
 | --- | --- |
@@ -20,9 +20,9 @@ Winix Preview is part of Winix Explorer's file-management experience.
 
 ## Our focus
 
-- Familiar, practical workflows for everyday desktop tasks.
-- A consistent experience across the three Winix applications.
-- KDE integration that preserves native file-operation behavior.
+- Broaden support for more desktop applications across KDE and Linux.
+- Develop new applications, extensions and enhancements with Windows-inspired UI and UX.
+- Improve visual consistency, interaction and everyday usability across the desktop.
 
 Development currently targets **Debian 13 with KDE Plasma 6**. Installation, compatibility and release details are documented per application.
 
