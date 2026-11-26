@@ -30,4 +30,6 @@ Development currently targets **Debian 13 with KDE Plasma 6**. Installation, com
 
 Founded and developed by **[JokanderX](https://github.com/JokanderX)**.
 
-Winix Explorer builds on **[KDE Dolphin](https://invent.kde.org/system/dolphin)** and the work of its contributors. Each application retains its own license and third-party notices.
+## Acknowledgements
+
+Winix builds on the work of the open-source community. Each project preserves the licenses, credits and notices of its upstream components and contributors.
