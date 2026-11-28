@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Winix-Project/.github/main/winix-logo.png" alt="Winix logo" width="160">
-</p>
-
 <h1 align="center">Winix</h1>
 
 <p align="center"><strong>A familiar desktop experience for Linux.</strong></p>
